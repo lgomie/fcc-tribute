@@ -39,7 +39,7 @@ body {
   border-radius: 20px;
 }
 
-#img-caption {
+#subtitle, #img-caption {
   margin: 1em;
   padding: 10px;
   position: relative;
